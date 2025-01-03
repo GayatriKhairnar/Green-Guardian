@@ -8,3 +8,5 @@ Green Guardian is an ingenious waste classification application. By employing so
 - *HTML, JavaScript, and CSS*: Employed for front-end development, creating a visually appealing user interface.
 - *OpenCV*: Utilized for opening the camera to detect and classify the type of waste.
 
+![image](https://github.com/user-attachments/assets/f4763fb6-4e36-4b05-8cd6-a2ffcc5302f9)
+![image](https://github.com/user-attachments/assets/407326e4-8336-4724-8a97-5e3efadf2e48)
